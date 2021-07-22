@@ -1,5 +1,9 @@
+.slider-section{
+    padding-top: 100px;
+}
 
-
-.header-container-full{
-    padding-bottom: 60px;
+body h5{
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
